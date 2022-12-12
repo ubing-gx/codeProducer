@@ -1,0 +1,18 @@
+package #path;#end
+
+import com.boot.annotation.TabField;
+import com.boot.annotation.TabName;
+
+import java.io.Serializable;
+/**
+ * @author ubing
+ * @date #date
+ */
+@TabName("#TabName")
+public class #TabName implements Serializable {
+
+    private static final long serialVersionUID = 1L;
+    #value
+
+    #getAndset
+}

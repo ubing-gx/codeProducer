@@ -1,0 +1,9 @@
+    public String get#Up_field() {
+        return #field;
+    }
+
+    public void set#Up_field(String #field) {
+        this.#field = #field;
+    }
+
+
